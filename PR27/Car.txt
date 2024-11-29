@@ -1,0 +1,10 @@
+1 Chevrolet Corolla хэтчбек AA2071BB А98
+2 Toyota Malibu внедорожник AA5182BB ДП
+3 Toyota Golf внедорожник AA1227BB А95
+4 Nissan Corolla хэтчбек AA2873BB ДП
+5 Nissan Malibu седан AA9415BB А98
+6 Volkswagen Focus пикап AA4199BB А98
+7 Nissan Altima хэтчбек AA4740BB А95
+8 Nissan Golf седан AA1248BB А95
+9 Ford Focus внедорожник AA4235BB А95
+10 Toyota Malibu седан AA4348BB ДП

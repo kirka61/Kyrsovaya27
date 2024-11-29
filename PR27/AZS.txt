@@ -1,0 +1,5 @@
+1 AZS-1 MainStreet 2 A95 A92 1 3
+2 AZS-2 CentralSquare 3 A95 DP A92 1 10
+3 AZS-3 Highway 1 A92 0 8
+4 AZS-4 Downtown 2 A98 DP 1 9
+5 AZS-5 Suburb 1 DP 1 5
